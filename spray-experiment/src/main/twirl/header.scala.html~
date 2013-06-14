@@ -1,0 +1,593 @@
+<div id="header-main">
+
+
+<div id="mod-header-1001-container" class="mod yui3-widget yui3-module yui3-header" style="">
+
+    <div id="mod-header-1001" class="mod-header mod-header-header yui3-header-content" style="">
+
+
+        <div id="headerContainer" class="headerExperienceOn">
+            <script type="text/javascript">
+                // US54468 -> for details
+                (function docUpdate() {
+                var docDomain = document.domain;
+
+                if (document.location.hostname.indexOf("www") < 0) {
+                docDomain = document.domain.match(/\.(.*)$/)[1];
+                }
+                document.cookie = "BETEX_ESD=accountservices; domain=."+docDomain+"; path=/;";
+                })();
+            </script>
+            <div id="heading" class="nav_i13n topnav_i13n darkBackground fixedHeaderWidth" data-shck="0">
+                <div id="navAccountContainer" class="nav_i13n-prod-www nav_i13n-brnd-ALL_BRANDS nav_i13n-region-GBR nav_i13n-loc-en nav_i13n-thm-mantis-sbw">
+                    <!-- Global Navigation -->
+                    <div id="navigation">
+                        <div id="globalNavigation">
+                            <ul id="globalLinks">
+                                <li id="mantis-sbw-exp" class="expToggle topnav_i13n-ltxt-sbw_exp"><a href="/sport/exchange?i13n=UD1zcG9ydCZTPWhlYWRlciZsb2M9ZW5fR0ImWD0vZXhjaGFuZ2UmU3A9Nw" class="link">Go to Exchange</a></li>
+
+                                <li id="help" class="topnav_i13n-ltxt-help"><a class="link managedWindow width(1024) height(768) autoscroll(true)" target="help" href="/sport/help?i13n=UD1zcG9ydCZTPWhlYWRlciZsb2M9ZW5fR0ImWD0vaGVscCZTcD03">Help</a></li>
+
+                                <li id="responsiblegambling" class="topnav_i13n-ltxt-rg"><a class="link" target="_blank" href="/sport/responsiblegambling?i13n=UD1zcG9ydCZTPWhlYWRlciZsb2M9ZW5fR0ImWD0vcmVzcG9uc2libGVnYW1ibGluZyZTcD03">Responsible Gambling</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Logo -->
+                    <div id="logoContainer">
+                        <a href="http://www.betfair.com">betfair Home</a>
+                    </div>
+                    <!-- Main Navigation Sprotsbook Experience alternative -->
+                    <div id="productTabsBackground"></div><ul id="productNavigation">
+                    <li id="sportsTab" class="selected"><span class="tab1"><span class="tab2"><a href="http://www.betfair.com/sport">Sports</a></span></span></li>
+                    <li id="promotionsTab"><span class="tab1"><span class="tab2"><a href="http://www.betfair.com/promotions/" data-promo="https://promotions.betfair.com/sbk-promohub" height-promo="938">Promotions</a></span></span></li>
+                    <li id="casinoTab"><span class="tab1"><span class="tab2"><a href="http://gamesportal.betfair.com/casino3/">﻿Casino</a></span></span></li>
+                    <li id="livedealerTab"><span class="tab1"><span class="tab2"><a href="http://gamesportal.betfair.com/casino3/categoryHub/index.html?id=live&amp;display=grid">﻿Live Casino</a></span></span></li>
+                    <li id="pokerTab"><span class="tab1"><span class="tab2"><a href="http://poker.betfair.com">Poker</a></span></span></li>
+                    <li id="gamesTab"><span class="tab1"><span class="tab2"><a href="http://games.betfair.com">﻿Exchange Games</a></span></span></li>
+                    <li id="arcadeTab"><span class="tab1"><span class="tab2"><a href="http://arcade.betfair.com">Arcade</a></span></span></li>
+                    <li id="liveslotsTab"><span class="tab1"><span class="tab2"><a href="https://arcade.betfair.com/category/topslots">Top Slots</a></span></span></li>
+                    <li id="onmobileTab"><span class="tab1"><span class="tab2"><a href="https://to.betstores.com/blp/sportsbook.html">Mobile</a></span></span></li>
+                </ul>	</div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+<div id="mod-login-lightbox-1002-container" class="mod yui3-widget yui3-module yui3-login-lightbox" style="">
+
+
+
+    <div id="mod-login-lightbox-1002" class="mod-login-lightbox mod-login-lightbox-login-lightbox yui3-login-lightbox-content" data-status="null" style="">
+
+
+
+        <div class="lightbox-errorMessage">
+            <p class="lightbox-errorCode"></p>
+        </div>
+        <div class="clear"></div>
+        <div class="lightBox-left">
+            <form action="https://www.betfair.com/sport/login" method="post" autocomplete="off" class="lightBoxForm" novalidate="">
+                <h3 class="lightBox-left-title">Please log in below</h3>
+                <label>Username:</label>
+                <input type="text" autocomplete="off" maxlenght="256" value="" name="username" class="lightBox-input-username" title="Enter your username">
+                <label>Password:</label>
+                <input type="password" name="password" value="" class="lightBox-input-password" title="Enter your password">
+                <br>
+                <input type="submit" id="lightBox-input-submit" class="lightBox-input-submit" value="Log In">
+                <input type="hidden" name="lightbox" value="true">
+                <a id="lightBox-link-security" target="securityMsg" data-popup="width:400px,height:350px,scrollbars:yes" href="http://content.betfair.com/misc/?product=portal&amp;sWhichKey=Security&amp;brand=betfair&amp;region=GBR&amp;locale=en" class="lightBox-link-security" title="Security">&nbsp;</a>
+                <br>
+                <a id="lightBox-link-forgotten-password" target="forgottenPassword" data-popup="width:788px,height:500px,scrollbars:yes" href="https://accountservices.betfair.com/account/forgotpassword/ForgottenPassword.do?method=initialise" class="lightBox-link-forgotten-password">Forgot your password?</a>
+            </form>
+        </div>
+        <div class="lightBox-right">
+            <h2 class="lightBox-right-title">New to Betfair?</h2>
+            <p class="lightBox-right-first-text">Join more than 3 million Betfair customers and become part of The World's Biggest Betting Community.</p>
+            <p class="lightBox-right-second-text">Opening an account is quick and easy to do.</p>
+            <a id="lightBox-input-join-now" data-popup="width:1050px,height:820px,scrollbars:yes,statusbar:yes" target="openAcc" class="lightBox-input-join-now" href="https://promotions.betfair.com/sports-direct-sign-up-int">Join Now</a>
+        </div>
+        <div class="errorAccount">
+            <p class="contactHelpDesk">Please contact <a href="${loginlightbox.contactus.url}" data-popup="width:738px,height:700px,scrollbars:yes,statusbar:yes" target="openHelpdesk" id="login-lightbox-helpdesk" class="login-lightbox-helpdesk">Betfair HelpDesk</a> for more information.</p>
+        </div>
+
+
+
+    </div>
+</div>
+<div id="header-scroller" class="scroller">
+
+
+<div id="mod-subnav-1020-container" class="mod yui3-widget yui3-module yui3-subnav" style="">
+
+
+
+<div id="mod-subnav-1020" class="mod-subnav mod-subnav-subnav yui3-subnav-content" style="">
+<div class="menu clearfix">
+
+
+
+<div class="full-sports-list clearfix ui-collapsed">
+
+
+
+
+
+    <div class="fullsportslist">
+        <ul>
+            <li>
+                <a href="/sport/american-football?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWFtZXJpY2FuLWZvb3RiYWxsJlNwPTc" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-6423"></span>
+                    <span class="sportName">American Football</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/baseball?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWJhc2ViYWxsJlNwPTc" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-7511"></span>
+                    <span class="sportName">Baseball</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/basketball?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWJhc2tldGJhbGwmU3A9Nw" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-7522"></span>
+                    <span class="sportName">Basketball</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/boxing?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWJveGluZyZTcD03" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-6"></span>
+                    <span class="sportName">Boxing</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/cricket?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWNyaWNrZXQmU3A9Nw" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-4"></span>
+                    <span class="sportName">Cricket</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/cycling?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWN5Y2xpbmcmU3A9Nw" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-11"></span>
+                    <span class="sportName">Cycling</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/darts?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWRhcnRzJlNwPTc" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-3503"></span>
+                    <span class="sportName">Darts</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/football?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWZvb3RiYWxsJlNwPTc" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-1"></span>
+                    <span class="sportName">Football</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/gaelic-games?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWdhZWxpYy1nYW1lcyZTcD03" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-2152880"></span>
+                    <span class="sportName">Gaelic Games</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/golf?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWdvbGYmU3A9Nw" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-3"></span>
+                    <span class="sportName">Golf</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/handball?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWhhbmRiYWxsJlNwPTc" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-468328"></span>
+                    <span class="sportName">Handball</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/horse-racing?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWhvcnNlLXJhY2luZyZTcD03" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-7"></span>
+                    <span class="sportName">Horse Racing</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/ice-hockey?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWljZS1ob2NrZXkmU3A9Nw" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-7524"></span>
+                    <span class="sportName">Ice Hockey</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/mixed-martial-arts?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPW1peGVkLW1hcnRpYWwtYXJ0cyZTcD03" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-26420387"></span>
+                    <span class="sportName">Mixed Martial Arts</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/motor-sport?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPW1vdG9yLXNwb3J0JlNwPTc" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-8"></span>
+                    <span class="sportName">Motor Sport</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/politics?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPXBvbGl0aWNzJlNwPTc" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-2378961"></span>
+                    <span class="sportName">Politics</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/rowing?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPXJvd2luZyZTcD03" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-12"></span>
+                    <span class="sportName">Rowing</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/rugby-league?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPXJ1Z2J5LWxlYWd1ZSZTcD03" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-1477"></span>
+                    <span class="sportName">Rugby League</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/rugby-union?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPXJ1Z2J5LXVuaW9uJlNwPTc" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-5"></span>
+                    <span class="sportName">Rugby Union</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/snooker?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPXNub29rZXImU3A9Nw" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-6422"></span>
+                    <span class="sportName">Snooker</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/special-bets?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPXNwZWNpYWwtYmV0cyZTcD03" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-10"></span>
+                    <span class="sportName">Special Bets</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/tennis?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPXRlbm5pcyZTcD03" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-2"></span>
+                    <span class="sportName">Tennis</span>
+                </a>
+            </li>
+            <li>
+                <a href="/sport/volleyball?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPXZvbGxleWJhbGwmU3A9Nw" class="ui-expandable ui-expandable-selected allSportsLink ui-nav ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                    <span class="sportIcon-998917"></span>
+                    <span class="sportName">Volleyball</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+
+</div>
+
+<div class="main-sports-list">
+
+
+
+    <ul class="ui-clickselect-container">
+        <li class="allSportsTab ">
+            <a href="/sport/horse-racing?modules=subnav@1020&amp;allSports=true" class="ui-expandable allSportsLink ui-betslip-action" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="toggle" data-betslip-action="adjust-size">
+                <span class="sportIcon-ALLSPORTS"></span>
+                <span class="divider">&nbsp;</span>
+                <span class="sportName">All Sports (23)</span>
+            </a>
+        </li>
+
+
+
+        <li class="ui-clickselect">
+
+
+            <a href="/sport/?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWhvbWUmU3A9Nw" class="ui-expandable ui-nav ui-betslip-action full-page-refresh" data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                <span class="sportIcon-Home"></span>
+                <span class="sportName">Home</span>
+            </a>
+        </li>
+
+        <li class="ui-clickselect">
+
+
+            <a href="/sport/inplay?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWlucGxheSZTcD03" class="ui-expandable ui-nav ui-betslip-action " data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                <span class="sportIcon-In-Play"></span>
+                <span class="sportName">In-Play</span>
+            </a>
+        </li>
+
+        <li class="ui-clickselect">
+
+
+            <a href="/sport/football?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWZvb3RiYWxsJlNwPTc" class="ui-expandable ui-nav ui-betslip-action " data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                <span class="sportIcon-1"></span>
+                <span class="sportName">Football</span>
+            </a>
+        </li>
+
+        <li class="ui-selected ui-clickselect">
+
+
+            <a href="/sport/horse-racing?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWhvcnNlLXJhY2luZyZTcD03" class="ui-expandable ui-nav ui-betslip-action " data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                <span class="sportIcon-7"></span>
+                <span class="sportName">Horse Racing</span>
+            </a>
+        </li>
+
+        <li class="ui-clickselect">
+
+
+            <a href="/sport/tennis?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPXRlbm5pcyZTcD03" class="ui-expandable ui-nav ui-betslip-action " data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                <span class="sportIcon-2"></span>
+                <span class="sportName">Tennis</span>
+            </a>
+        </li>
+
+        <li class="ui-clickselect">
+
+
+            <a href="/sport/golf?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWdvbGYmU3A9Nw" class="ui-expandable ui-nav ui-betslip-action " data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                <span class="sportIcon-3"></span>
+                <span class="sportName">Golf</span>
+            </a>
+        </li>
+
+        <li class="ui-clickselect">
+
+
+            <a href="/sport/cricket?i13n=UD1zcG9ydCZTPXNuJmxvYz1lbl9HQiZYPWNyaWNrZXQmU3A9Nw" class="ui-expandable ui-nav ui-betslip-action " data-target=".full-sports-list" data-mode="default" data-collapsed-height="0" data-behavior="close" data-loader="#zone-container .scroller &gt; div" data-betslip-action="adjust-size">
+                <span class="sportIcon-4"></span>
+                <span class="sportName">Cricket</span>
+            </a>
+        </li>
+
+    </ul>
+
+
+
+</div>
+
+
+<div class="circleNavigationMenu">
+
+
+
+    <a href="/sport/football?action=refreshNavigation&amp;i13n=UD1zcG9ydCZTPWNuJmxvYz1lbl9HQiZYPWZvb3RiYWxsJlNwPTc" class="ui-nav circleNavigation leftMenu" data-loader="#zone-container .scroller &gt; div">
+        <div class="arrow"></div>
+        <div class="icon nav-1"></div>
+        <div class="label">        Football
+        </div>
+    </a>
+
+    <a href="/sport/tennis?action=refreshNavigation&amp;i13n=UD1zcG9ydCZTPWNuJmxvYz1lbl9HQiZYPXRlbm5pcyZTcD03" class="ui-nav circleNavigation rightMenu" data-loader="#zone-container .scroller &gt; div">
+        <div class="icon nav-2"></div>
+        <div class="arrow"></div>
+        <div class="label">        Tennis
+        </div>
+    </a>
+</div>
+
+
+
+
+
+</div>
+
+
+</div>
+</div>
+
+
+<div id="mod-betslip-1003-container" class="mod yui3-widget yui3-module yui3-betslip" style="">
+
+
+
+    <div id="mod-betslip-1003" class="mod-betslip mod-betslip-betslip yui3-betslip-content" style="padding-top: 0px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="betslip-launcher">
+            <button class="ui-toggle user-closed betslip-expand-button" data-target=".betslip-container">
+                <span class="arrow"><span class="ico"><!-- --></span></span>
+                <span class="title">Betslip</span>
+            <span class="bet-count">
+    <span class="digit">0</span>
+    <span class="digit">0</span>
+            </span>
+            </button>
+        </div>
+        <div class="betslip-container state-edit">
+            <div class="betslip-state state-edit active" id="yui_3_3_0_1_13630885090674864">
+
+                <form name="betslip-edit" action="/sport/horse-racing?action=confirm&amp;i13n=bG9jPWVuX0dC&amp;modules=betslip&amp;xsrftoken=b2fdfa20-8034-11e2-ace0-a0369f0e3070" method="POST" enctype="application/x-www-form-urlencoded">
+                    <div class="messages">
+                        <div class="error-container ">
+                            <div class="error-message error-invalid-stake">
+                                Your Stake contains invalid characters
+                            </div>
+                            <div class="error-message error-stake-below-minimum-allowed">
+                            </div>
+                            <div class="error-message error-stake-above-maximum-allowed">
+                                Your stake(s) exceeds the maximum
+                            </div>
+                            <div class="error-message error-bet-placement-failure">
+                                Your bets could not be placed. See below.
+                            </div>
+                            <div class="error-message error-insufficient-funds">
+                                Not enough money in your account
+                                <div class="betslip-deposit-link">
+                                    <a href="https://accountservices.betfair.com/myaccount/account/MyAccount.do?tabID=3" target="deposit">Deposit</a>
+                                </div>
+                            </div>
+                            <div class="error-message error-market-suspended">
+                                Could not add bet, market is suspended.
+                            </div>
+                            <div class="error-message error-invalid-promotion">
+                                The selected promotion is invalid
+                            </div>
+                            <div class="error-message error-over-loss-limit">
+                                These bets exceed your loss limit.
+                                <div class="betslip-contact-us-link">
+                                    <a href="http://www.betfair.com/aboutUs/Contact.Us/" target="aboutUsContact">Contact Helpdesk</a>
+                                </div>
+                            </div>
+                            <div class="error-message error-fob-service-failure">
+                                Your bet could not be added
+                            </div>        </div>
+
+                    </div>
+
+                    <div class="betslip-body">
+                        <div class="bets" style="max-height: 18px;">
+                            <div class="header ">
+            <span class="selections">
+                    Your selections
+            </span>
+                                <div class="odds-stake">
+                                    <span class="odds-header">Odds</span>
+                                    <span class="stake-header">Stake</span>
+                                </div>
+                            </div>
+
+                            <div class="singles">
+
+                                <div class="empty-betslip-msg active">
+                                    <p>Your betslip is empty.</p>
+                                    <p>You can add selections by clicking on the green odds buttons.</p>
+                                </div>
+                            </div>
+                            <div class="multiples">
+                                <div class="multiples-header             hidden
+">
+                                    <span class="left-title">Multiples</span>
+                                    <span class="right-title">Stake per Bet</span>
+                                </div>
+
+
+                                <div class="multiples-messages">
+                                    <div class="related-contingencies-message ">
+                                        Some selections can't be combined in Multiples.
+                                    </div>
+                                </div>
+                                <div class="multiples-bets hidden">
+                                    <ul class="multiples-bet-list">
+                                    </ul>            </div>
+                            </div>
+                        </div>
+
+                        <div class="controls hidden">
+                            <div class="remove-all-container">
+                                <a href="/sport/horse-racing?action=removeAll&amp;i13n=bG9jPWVuX0dC&amp;modules=betslip&amp;xsrftoken=b2fdfa20-8034-11e2-ace0-a0369f0e3070" class="remove-all-bets ui-betslip-action ui-white-button" data-betslip-action="remove-all">
+                                    Remove all
+                                </a>
+                            </div>
+
+                            <div class="free-bets-container">
+                                <div class="fb-secondary-container">
+                                    <span class="free-bet">Free Bet:</span>
+                                    <div class="free-bet-select">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <p class="total-stake">
+                                <span>Total Stake: </span>
+<span class="total-stake-value" data-value="0">
+£0.00
+</span>
+                            </p>
+
+
+
+                            <div class="confirm-bets">
+                                <label class="confirm-bets-label"><input type="checkbox" name="confirm-bets" value="Confirm Bets" class="ui-change-event checkbox-confirm-bet">Confirm Bets</label>
+                            </div>
+
+                            <div class="place-confirm-bets">
+
+                                <button type="submit" class="place-bets-button ui-betslip-action ui-disabled" data-betslip-action="place-bets">Place Bets</button>
+
+
+                            </div>
+                        </div>
+
+                        <div class="betslip-overlay">
+                            <div class="betslip-overlay-text">
+                                <div class="loading"></div>
+                                <div class="loading-label">
+                                    Loading bets
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="bottom-messages">
+                            <div class="please-login-message active">
+                                Please Login above before placing your bets
+                            </div>
+                            <div class="bets-have-changed-message">
+                                Your bets have changed.
+                            </div>
+                            <div class="fb-amount-message ">
+                                You are not using your full free bet amount
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="betslip-state state-confirm ">
+            </div>
+            <div class="betslip-state state-place ">
+            </div>
+        </div>
+
+    </div>
+</div>
+</div>
+<div id="header-login">
+    <div id="header-login-container">
+
+
+        <div id="mod-login-1004-container" class="mod yui3-widget yui3-module yui3-login" style="">
+
+
+
+            <div id="mod-login-1004" class="mod-login mod-login-login yui3-login-content" style="">
+
+                <div class="submit-login">
+                    <form action="https://www.betfair.com/sport/login" method="post" autocomplete="off" novalidate="">
+                        <p class="wrapper"><label for="m1004-username">username</label>
+                            <input class="input-username input-text i13n-F-1" type="text" placeholder="username" value="" name="username" id="m1004-username" required="true" title="Enter your username" maxlength="256">
+                        </p>
+                        <p class="wrapper row-login"><label for="m1004-password">password</label>
+                            <input class="input-password input-text i13n-F-2" type="password" placeholder="password" value="" name="password" id="m1004-password" required="true" title="Enter your password" maxlength="256">
+                            <input type="submit" id="m1004-login-submit" class="login-submit i13n-ltxt-LogIn" value="Log In">
+                            <a title="Security" href="http://content.betfair.com/misc/?product=portal&amp;sWhichKey=Security&amp;brand=betfair&amp;region=GBR&amp;locale=en" data-popup="width:400px,height:350px,scrollbars:yes" class="link-security i13n-ltxt-Padlock i13n-PO-LoginErr" target="securityMsg" id="m1004-security">Security</a>
+                        </p>
+                    </form>
+                    <div class="links-login">
+                        <a id="m1004-forgotten-password" class="link link-forgotten-password i13n-ltxt-ForgotUP i13n-PO-LoginErr" data-popup="width:788px,height:500px,scrollbars:yes" target="forgottenPassword" href="https://accountservices.betfair.com/account/forgotpassword/ForgottenPassword.do?method=initialise">Forgot your password?</a>
+                        |
+                        <a id="m1004-join-now" class="link link-join-now i13n-ltxt-Join i13n-PO-LoginErr" data-popup="width:1050px,height:820px,scrollbars:yes,statusbar:yes" target="openAcc" href="https://promotions.betfair.com/sports-direct-sign-up-int">Join Now</a>
+                    </div>
+                    <div id="m1004-help-login-prices" class="help-login-prices">
+                        <button class="help-login-prices-close">Close Help</button>
+                        <p>Only customers logged into a funded account will be able to view the latest prices.</p><p> To find out more, go to our
+                        <a data-popup="width:788px,height:500px,scrollbars:yes,statusbar:yes" class="link log(Help.Opening.Account)" target="help" href="/help/Help.Opening.Account/">help section</a>.</p>    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+</div>
